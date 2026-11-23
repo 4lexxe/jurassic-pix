@@ -1,0 +1,6 @@
+{
+    "name": "JurassicPix.Tests",
+    "references": ["JurassicPix.Core", "JurassicPix.Runtime", "Unity.Collections", "Unity.Netcode.Runtime"],
+    "includePlatforms": ["Editor"],
+    "optionalUnityReferences": ["TestAssemblies"]
+}

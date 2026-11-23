@@ -1,0 +1,31 @@
+# La raíz se usa también como carpeta de descargas (packs, modelos y audios
+# originales, respaldos, registros). Se ignora todo y se habilita solo lo que
+# forma parte del proyecto. Para versionar algo nuevo de la raíz, agregarlo acá.
+/*
+!/.gitignore
+!/Assets/
+!/Packages/
+!/ProjectSettings/
+!/Tools/
+!/Docs/
+!/README.md
+!/AGENTS.md
+
+# Informe de la entrega, enlazado desde el README.
+!/output/
+/output/*
+!/output/pdf/
+/output/pdf/*
+!/output/pdf/Informe_Jurassic_Pix.pdf
+
+# Los escribe el paquete de pruebas de rendimiento en cada compilación.
+/Assets/Resources/PerformanceTestRun*.json
+/Assets/Resources/PerformanceTestRun*.json.meta
+/Assets/Resources.meta
+
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store

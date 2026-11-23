@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AguaOceano
+  m_Shader: {fileID: 4800000, guid: c113a242751ec4f4ca31d6e57c8faea0, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Bed:
+        m_Texture: {fileID: 2800000, guid: c2ccc71bb756f734a87d5bbe6e87bc48, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _IslandScale: 4.89898
+    - _Lagoon: 0
+    m_Colors:
+    - _IslandRect: {r: -2282.9248, g: -205.75717, b: 4565.8496, a: 4565.8496}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

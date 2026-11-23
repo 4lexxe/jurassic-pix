@@ -1,0 +1,12 @@
+{
+    "name": "JurassicPix.Runtime",
+    "references": [
+        "JurassicPix.Core",
+        "Unity.Collections",
+        "Unity.Netcode.Runtime",
+        "Unity.Networking.Transport",
+        "Unity.Services.Authentication",
+        "Unity.Services.Core",
+        "Unity.Services.Relay"
+    ]
+}

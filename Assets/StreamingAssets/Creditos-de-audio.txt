@@ -1,0 +1,56 @@
+Audio de Jurassic Pix
+
+Muestras de Freesound bajo Creative Commons Zero 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/
+Se usaron extractos con edición de bucles, mezcla, filtros o ajustes de tono según el efecto.
+
+Ambiente de día — Magnesus, Forest birds - ambient seamless loop
+https://freesound.org/people/Magnesus/sounds/723913/
+Ambiente de noche — Vrymaa, Night crickets
+https://freesound.org/people/Vrymaa/sounds/734642/
+Viento del valle y del vuelo — alppdcjr12, Wind in trees 1.mp3
+https://freesound.org/people/alppdcjr12/sounds/662575/
+Canto de aves — Lin700, bird call
+https://freesound.org/people/Lin700/sounds/790246/
+Llamada nocturna — Gerent, owl_hooting_000102_0145S3 002-070 000-002 068-074.wav
+https://freesound.org/people/Gerent/sounds/558396/
+Pisadas de grava y hojas — SpliceSound, 01-21 Footsteps, sneakers on gravel and leaves.wav
+https://freesound.org/people/SpliceSound/sounds/218304/
+Golpes, pisadas graves y estampida — leonelmail, BODY FALL - V HVY - DIRT
+https://freesound.org/people/leonelmail/sounds/504626/
+Voz de Triceratops — Ovkovko, CrocodilianTypeGrowl
+https://freesound.org/people/Ovkovko/sounds/825609/
+Voz de Velociraptor — JarredGibb, Dinosaur 5.wav
+https://freesound.org/people/JarredGibb/sounds/233284/
+Voz de Argentinosaurus — colorsCrimsonTears, Monster roar
+https://freesound.org/people/colorsCrimsonTears/sounds/537883/
+Voz interpretada de Quetzalcoatlus — D.jones, Alligator Growls 02.wav
+https://freesound.org/people/D.jones/sounds/527844/
+Voz de Tyrannosaurus — Breviceps, Dragon: Snarl, Roar + Attack
+https://freesound.org/people/Breviceps/sounds/466830/
+Aleteo — _stubb, Wing Flap 2.wav
+https://freesound.org/people/_stubb/sounds/389633/
+Barrido de ataque — Jofae, Swing Woosh
+https://freesound.org/people/Jofae/sounds/389590/
+Panel y menú — xkeril, Turning page (heavy paper)
+https://freesound.org/people/xkeril/sounds/856497/
+Lluvia — Borgory, Rain on Leaf in Forest
+https://freesound.org/people/Borgory/sounds/650776/
+Trueno — Electroviolence, Forest Thunder
+https://freesound.org/people/Electroviolence/sounds/234536/
+Oleaje — sinatra314, shore1001.wav
+https://freesound.org/people/sinatra314/sounds/58408/
+
+Muestras de OpenGameArt bajo Creative Commons Zero 1.0.
+Aguacero — Ylmir, Rain (loopable)
+https://opengameart.org/content/rain-loopable
+Trueno largo — WuxiaScrub, Rain + Long Thunder
+https://opengameart.org/content/rain-long-thunder
+Trueno lejano y pisadas en agua — rubberduck, 100 CC0 SFX #2
+https://opengameart.org/content/100-cc0-sfx-2
+Bocados — StarNinjas, 7 Eating Crunches
+https://opengameart.org/content/7-eating-crunches
+
+Fuera de Freesound y OpenGameArt
+Pisadas de Tyrannosaurus, Triceratops y Argentinosaurus — pisada.mp3, archivo aportado al proyecto. Falta documentar su origen y licencia.
+Trueno, grillos, viento, agua de lagos y orillas, y fondo de pájaros — trueno.mp3, grillo.mp3 a grillo4.mp3, sonido_viento.mp3, agua.mp3 y pajaros.mp3, archivos aportados al proyecto. Falta documentar su origen y licencia.
